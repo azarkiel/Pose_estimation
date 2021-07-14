@@ -1,0 +1,504 @@
+2021-06-29 08:28:21,444:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S1_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq1_video_8.mp4
+FPS_AVG= 50.9
+FPS_MAX= 62.7
+FPS_MIN= 1.7
+MEM_AVG= 174.4MB
+MEM_MAX= 176.2MB
+MEM_MIN= 164.1MB
+CPU_AVG= 10.6%
+CPU_MAX= 78.1%
+CPU_MIN= 1.7%
+
+2021-06-29 08:32:19,427:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S1_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq2_video_8.mp4
+FPS_AVG= 55.1
+FPS_MAX= 63.2
+FPS_MIN= 2.1
+MEM_AVG= 196.2MB
+MEM_MAX= 219.6MB
+MEM_MIN= 163.1MB
+CPU_AVG= 10.6%
+CPU_MAX= 73.2%
+CPU_MIN= 0.6%
+
+2021-06-29 08:34:39,789:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S2_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq1_video_8.mp4
+FPS_AVG= 49.5
+FPS_MAX= 62.7
+FPS_MIN= 16.6
+MEM_AVG= 174.4MB
+MEM_MAX= 176.4MB
+MEM_MIN= 164.3MB
+CPU_AVG= 10.4%
+CPU_MAX= 78.1%
+CPU_MIN= 4.1%
+
+2021-06-29 08:36:44,766:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S2_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq2_video_8.mp4
+FPS_AVG= 51.9
+FPS_MAX= 66.8
+FPS_MIN= 15.0
+MEM_AVG= 174.6MB
+MEM_MAX= 176.3MB
+MEM_MIN= 164.1MB
+CPU_AVG= 10.5%
+CPU_MAX= 78.1%
+CPU_MIN= 4.1%
+
+2021-06-29 08:40:38,552:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S3_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq1_video_8.mp4
+FPS_AVG= 54.8
+FPS_MAX= 63.4
+FPS_MIN= 15.6
+MEM_AVG= 175.0MB
+MEM_MAX= 176.8MB
+MEM_MIN= 163.1MB
+CPU_AVG= 10.6%
+CPU_MAX= 78.1%
+CPU_MIN= 4.1%
+
+2021-06-29 08:44:33,643:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S3_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq2_video_8.mp4
+FPS_AVG= 53.9
+FPS_MAX= 62.7
+FPS_MIN= 17.2
+MEM_AVG= 175.0MB
+MEM_MAX= 176.7MB
+MEM_MIN= 163.1MB
+CPU_AVG= 10.6%
+CPU_MAX= 78.1%
+CPU_MIN= 2.1%
+
+2021-06-29 08:46:33,129:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S4_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq1_video_8.mp4
+FPS_AVG= 53.4
+FPS_MAX= 65.3
+FPS_MIN= 16.5
+MEM_AVG= 173.5MB
+MEM_MAX= 175.5MB
+MEM_MIN= 163.2MB
+CPU_AVG= 10.5%
+CPU_MAX= 78.1%
+CPU_MIN= 2.8%
+
+2021-06-29 08:48:41,688:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S4_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq2_video_8.mp4
+FPS_AVG= 54.0
+FPS_MAX= 66.8
+FPS_MIN= 16.0
+MEM_AVG= 174.6MB
+MEM_MAX= 176.7MB
+MEM_MIN= 163.0MB
+CPU_AVG= 10.8%
+CPU_MAX= 78.1%
+CPU_MIN= 2.8%
+
+2021-06-29 08:52:51,554:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S5_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq1_video_8.mp4
+FPS_AVG= 53.6
+FPS_MAX= 66.7
+FPS_MIN= 18.9
+MEM_AVG= 175.1MB
+MEM_MAX= 176.7MB
+MEM_MIN= 163.1MB
+CPU_AVG= 10.5%
+CPU_MAX= 78.1%
+CPU_MIN= 4.1%
+
+2021-06-29 08:57:23,354:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S5_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq2_video_8.mp4
+FPS_AVG= 48.9
+FPS_MAX= 62.7
+FPS_MIN= 10.1
+MEM_AVG= 174.9MB
+MEM_MAX= 176.3MB
+MEM_MIN= 164.3MB
+CPU_AVG= 9.5%
+CPU_MAX= 78.1%
+CPU_MIN= 1.4%
+
+2021-06-29 08:59:18,610:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S6_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq1_video_8.mp4
+FPS_AVG= 54.9
+FPS_MAX= 62.6
+FPS_MIN= 9.7
+MEM_AVG= 173.5MB
+MEM_MAX= 175.7MB
+MEM_MIN= 163.2MB
+CPU_AVG= 10.6%
+CPU_MAX= 78.1%
+CPU_MIN= 1.4%
+
+2021-06-29 09:01:13,179:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S6_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq2_video_8.mp4
+FPS_AVG= 54.9
+FPS_MAX= 63.4
+FPS_MIN= 9.0
+MEM_AVG= 172.4MB
+MEM_MAX= 174.2MB
+MEM_MIN= 163.2MB
+CPU_AVG= 10.7%
+CPU_MAX= 78.1%
+CPU_MIN= 2.8%
+
+2021-06-29 09:03:08,264:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S7_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq1_video_8.mp4
+FPS_AVG= 55.8
+FPS_MAX= 126.5
+FPS_MIN= 1.5
+MEM_AVG= 174.0MB
+MEM_MAX= 175.7MB
+MEM_MIN= 163.1MB
+CPU_AVG= 10.8%
+CPU_MAX= 78.1%
+CPU_MIN= 1.1%
+
+2021-06-29 09:05:12,606:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S7_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq2_video_8.mp4
+FPS_AVG= 53.1
+FPS_MAX= 65.1
+FPS_MIN= 17.4
+MEM_AVG= 172.8MB
+MEM_MAX= 174.2MB
+MEM_MIN= 163.2MB
+CPU_AVG= 10.7%
+CPU_MAX= 86.8%
+CPU_MIN= 2.8%
+
+2021-06-29 09:07:17,893:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S8_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq1_video_8.mp4
+FPS_AVG= 53.8
+FPS_MAX= 62.7
+FPS_MIN= 17.7
+MEM_AVG= 172.9MB
+MEM_MAX= 174.8MB
+MEM_MIN= 163.1MB
+CPU_AVG= 10.8%
+CPU_MAX= 78.1%
+CPU_MIN= 4.1%
+
+2021-06-29 09:09:08,648:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S8_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq2_video_8.mp4
+FPS_AVG= 56.0
+FPS_MAX= 64.6
+FPS_MIN= 15.1
+MEM_AVG= 174.2MB
+MEM_MAX= 176.0MB
+MEM_MIN= 163.3MB
+CPU_AVG= 10.8%
+CPU_MAX= 78.1%
+CPU_MIN= 4.1%
+
+2021-06-29 09:11:33,843:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S9_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq1_video_8.mp4
+FPS_AVG= 44.9
+FPS_MAX= 53.4
+FPS_MIN= 7.1
+MEM_AVG= 190.3MB
+MEM_MAX= 191.5MB
+MEM_MIN= 179.0MB
+CPU_AVG= 11.7%
+CPU_MAX= 58.8%
+CPU_MIN= 1.8%
+
+2021-06-29 09:12:49,600:INFO:
+ARGS=mediapipeTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S9_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq2_video_8.mp4
+FPS_AVG= 48.6
+FPS_MAX= 53.6
+FPS_MIN= 13.6
+MEM_AVG= 189.1MB
+MEM_MAX= 190.1MB
+MEM_MIN= 178.8MB
+CPU_AVG= 11.7%
+CPU_MAX= 54.6%
+CPU_MIN= 4.1%
+
+2021-06-29 09:16:14,613:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S1_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq1_video_8.mp4
+FPS_AVG= 31.7
+FPS_MAX= 62.6
+FPS_MIN= 7.4
+MEM_AVG= 170.2MB
+MEM_MAX= 171.8MB
+MEM_MIN= 159.8MB
+CPU_AVG= 6.9%
+CPU_MAX= 44.8%
+CPU_MIN= 2.1%
+
+2021-06-29 09:22:48,737:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S1_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq2_video_8.mp4
+FPS_AVG= 31.9
+FPS_MAX= 62.6
+FPS_MIN= 10.1
+MEM_AVG= 170.6MB
+MEM_MAX= 172.4MB
+MEM_MIN= 159.8MB
+CPU_AVG= 6.3%
+CPU_MAX= 65.1%
+CPU_MIN= 1.4%
+
+2021-06-29 09:26:15,777:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S2_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq1_video_8.mp4
+FPS_AVG= 31.8
+FPS_MAX= 62.5
+FPS_MIN= 11.1
+MEM_AVG= 164.3MB
+MEM_MAX= 170.0MB
+MEM_MIN= 159.5MB
+CPU_AVG= 6.9%
+CPU_MAX= 65.1%
+CPU_MIN= 1.7%
+
+2021-06-29 09:29:30,621:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S2_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq2_video_8.mp4
+FPS_AVG= 31.8
+FPS_MAX= 63.2
+FPS_MIN= 13.0
+MEM_AVG= 169.9MB
+MEM_MAX= 171.6MB
+MEM_MIN= 159.7MB
+CPU_AVG= 6.8%
+CPU_MAX= 69.4%
+CPU_MIN= 2.1%
+
+2021-06-29 09:36:03,640:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S3_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq1_video_8.mp4
+FPS_AVG= 32.0
+FPS_MAX= 63.6
+FPS_MIN= 15.9
+MEM_AVG= 170.7MB
+MEM_MAX= 172.5MB
+MEM_MIN= 159.7MB
+CPU_AVG= 6.7%
+CPU_MAX= 65.1%
+CPU_MIN= 2.8%
+
+2021-06-29 09:42:31,955:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S3_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq2_video_8.mp4
+FPS_AVG= 31.9
+FPS_MAX= 62.6
+FPS_MIN= 2.9
+MEM_AVG= 170.6MB
+MEM_MAX= 172.5MB
+MEM_MIN= 159.9MB
+CPU_AVG= 6.6%
+CPU_MAX= 69.4%
+CPU_MIN= 2.8%
+
+2021-06-29 09:45:48,160:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S4_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq1_video_8.mp4
+FPS_AVG= 31.8
+FPS_MAX= 62.1
+FPS_MIN= 12.2
+MEM_AVG= 170.2MB
+MEM_MAX= 172.2MB
+MEM_MIN= 159.8MB
+CPU_AVG= 6.4%
+CPU_MAX= 42.0%
+CPU_MIN= 2.1%
+
+2021-06-29 09:49:20,439:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S4_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq2_video_8.mp4
+FPS_AVG= 31.9
+FPS_MAX= 62.5
+FPS_MIN= 15.0
+MEM_AVG= 170.0MB
+MEM_MAX= 171.6MB
+MEM_MIN= 159.7MB
+CPU_AVG= 6.5%
+CPU_MAX= 65.1%
+CPU_MIN= 2.8%
+
+2021-06-29 09:56:06,850:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S5_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq1_video_8.mp4
+FPS_AVG= 31.8
+FPS_MAX= 63.4
+FPS_MIN= 15.6
+MEM_AVG= 170.3MB
+MEM_MAX= 171.9MB
+MEM_MIN= 159.8MB
+CPU_AVG= 6.6%
+CPU_MAX= 65.1%
+CPU_MIN= 2.1%
+
+2021-06-29 10:02:35,347:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S5_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq2_video_8.mp4
+FPS_AVG= 31.9
+FPS_MAX= 63.3
+FPS_MIN= 9.7
+MEM_AVG= 170.2MB
+MEM_MAX= 171.7MB
+MEM_MIN= 159.8MB
+CPU_AVG= 6.2%
+CPU_MAX= 46.2%
+CPU_MIN= 1.7%
+
+2021-06-29 10:05:54,188:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S6_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq1_video_8.mp4
+FPS_AVG= 31.6
+FPS_MAX= 62.5
+FPS_MIN= 9.9
+MEM_AVG= 169.5MB
+MEM_MAX= 171.4MB
+MEM_MIN= 159.7MB
+CPU_AVG= 6.6%
+CPU_MAX= 43.4%
+CPU_MIN= 1.7%
+
+2021-06-29 10:09:13,465:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S6_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq2_video_8.mp4
+FPS_AVG= 31.4
+FPS_MAX= 52.6
+FPS_MIN= 4.5
+MEM_AVG= 168.8MB
+MEM_MAX= 170.2MB
+MEM_MIN= 159.7MB
+CPU_AVG= 6.6%
+CPU_MAX= 50.4%
+CPU_MIN= 1.2%
+
+2021-06-29 10:12:36,404:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S7_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq1_video_8.mp4
+FPS_AVG= 31.4
+FPS_MAX= 58.8
+FPS_MIN= 11.4
+MEM_AVG= 169.0MB
+MEM_MAX= 170.6MB
+MEM_MIN= 159.7MB
+CPU_AVG= 6.9%
+CPU_MAX= 46.2%
+CPU_MIN= 2.1%
+
+2021-06-29 10:16:09,232:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S7_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq2_video_8.mp4
+FPS_AVG= 30.5
+FPS_MAX= 58.8
+FPS_MIN= 7.2
+MEM_AVG= 169.5MB
+MEM_MAX= 171.1MB
+MEM_MIN= 159.6MB
+CPU_AVG= 6.7%
+CPU_MAX= 50.4%
+CPU_MIN= 2.1%
+
+2021-06-29 10:19:41,299:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S8_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq1_video_8.mp4
+FPS_AVG= 31.3
+FPS_MAX= 58.5
+FPS_MIN= 1.3
+MEM_AVG= 169.0MB
+MEM_MAX= 171.0MB
+MEM_MIN= 159.8MB
+CPU_AVG= 6.8%
+CPU_MAX= 46.2%
+CPU_MIN= 0.8%
+
+2021-06-29 10:22:54,946:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S8_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq2_video_8.mp4
+FPS_AVG= 31.6
+FPS_MAX= 55.1
+FPS_MIN= 13.5
+MEM_AVG= 170.0MB
+MEM_MAX= 172.1MB
+MEM_MIN= 159.8MB
+CPU_AVG= 6.4%
+CPU_MAX= 50.4%
+CPU_MIN= 2.8%
+
+2021-06-29 10:26:23,710:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S9_seq1_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq1_video_8.mp4
+FPS_AVG= 31.0
+FPS_MAX= 52.7
+FPS_MIN= 11.1
+MEM_AVG= 185.5MB
+MEM_MAX= 186.5MB
+MEM_MIN= 174.5MB
+CPU_AVG= 7.8%
+CPU_MAX= 54.6%
+CPU_MIN= 1.4%
+
+2021-06-29 10:28:19,336:INFO:
+ARGS=mediapipeTest.py --noview --inputfile=D:/00_TFM_dataset/S9_seq2_video_8.mp4
+PROGRAM= mediapipeTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq2_video_8.mp4
+FPS_AVG= 31.6
+FPS_MAX= 52.5
+FPS_MIN= 22.2
+MEM_AVG= 184.8MB
+MEM_MAX= 185.8MB
+MEM_MIN= 174.4MB
+CPU_AVG= 7.6%
+CPU_MAX= 50.4%
+CPU_MIN= 2.8%
+
